@@ -1,5 +1,8 @@
-# paullashes
+# Paullashes
 
-strona stworzona na wordpressie
+Strona wykonana z wykorzystaniem skryptu Wordpress.Witryna została przystosowana do wygodnego przeglądania za pośrednictwem urządzeń mobilnych.
 
-http://www.paullashes.pl/
+Klient: Paullashes - sztuczne rzęsy</br>
+Data realizacji: wrzesień 2021 </br>
+Link do strony: http://www.paullashes.pl/ </br>
+Typ realizacji: Strona internetowa </br>
